@@ -1,3 +1,5 @@
+[![Archived header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Archived.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#archived)
+
 # From Zero to Docker: Migrating to the Whale
 
 Example Dockerfiles to ilustrate building applications as a pair of base and
